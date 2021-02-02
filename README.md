@@ -29,7 +29,7 @@ The commands are inspired by classic Unix-like commands such as ls, **pwd**, **m
 
 Arguments type:
 * [required] 
-* | optional |
+* |optional|
 
 ##### ls
 	Lists all files and folders in the directory specified as an argument. If no path is specified, the current directory is used.
