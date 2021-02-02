@@ -7,7 +7,7 @@ The aim of the work was to implement low-level application in C/C++ language wit
 The application is controlled via the command line interface (terminal). \
 The commands are inspired by classic Unix-like commands such as ls, **pwd**, **mkdir**, **touch**, **cat** etc. \
 (example of application interface) \
-![User Manual](https://raw.githubusercontent.com/GabrielHalvonik/DownloadManagerClient/master/manual_res/Overview.png "User manual")
+![User Manual](https://raw.githubusercontent.com/GabrielHalvonik/DownloadManagerClient/master/manual_res/Use.png "User manual")
 
 [libCURL](https://github.com/curl/curl "libCURL") library is used for network communication, which is an "unwritten standard" in network communication on client side of the C language application, that supports http, https, ftp, sftp and many other protocols.
 
